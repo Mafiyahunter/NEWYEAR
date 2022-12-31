@@ -11,7 +11,7 @@ for i in range(1,10000):
       count= range(1,100)
       while (count >0):
       	s += " " 
-      count- = 1
+      count-=1
       
       
       if(1%10==0):
