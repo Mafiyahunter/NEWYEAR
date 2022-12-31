@@ -8,7 +8,7 @@ for i in range(1,45):
       
       
 for i in range(1,10000):
-      count= range(1,100):
+      count= range(1,100)
       while (count >0):
       	s += " " 
       count- = 1
